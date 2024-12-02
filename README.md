@@ -8,6 +8,10 @@ TravelBook is an iOS application that allows users to save and manage their favo
 - 🗺️ View your travel memories on an interactive map
 - 🧭 Get navigation directions to your saved locations
 
+## 🖼️ App Demonstration
+
+![TravelBook App Demonstration](travelbook.gif)
+
 ## 🚀 Features
 
 - **Location Saving**: Long-press on any location to save it
@@ -23,10 +27,6 @@ TravelBook is an iOS application that allows users to save and manage their favo
 - MapKit
 - CoreLocation
 - CoreData
-
-## 🖼️ App Demonstration
-
-![TravelBook App Demonstration](travelbook.gif)
 
 ## 📦 Installation
 
